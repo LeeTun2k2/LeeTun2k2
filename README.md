@@ -22,6 +22,7 @@
 ## WORK EXPERIENCE & PROJECTS
 
 ### LEVINCI CO., LTD - Frontend, Backend, DevOps
+**02/2024 – present**
 
 **INTERNAL DEVOPS TEAM**  
 - **Role:** DevOps  
