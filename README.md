@@ -42,7 +42,7 @@
 - Optimized and refactored API and UI dashboard & reporting functions
 
 ### ROHTO AOHAL CLINIC – Frontend, Backend Developer
-**02/2023 – 01/2024**  
+**02/2023 – 02/2024**  
 - **Technologies:** ASP.NET Core, Blazor, DevExpress  
 - Developed an admin panel for managing staff, marketing, inventory, medicines, and sales processes  
 
